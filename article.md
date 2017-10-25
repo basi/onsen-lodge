@@ -53,7 +53,7 @@
 - 外が若干騒がしい
 
 
-### basispoint
+### Basis Point
 <img width="719" alt="2017-10-26 1 05 31" src="https://user-images.githubusercontent.com/75426/32009338-cb4f89ce-b9e9-11e7-89e9-827a7340ae42.png">
 
 
